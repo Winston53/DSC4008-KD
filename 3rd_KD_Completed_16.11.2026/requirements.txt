@@ -1,0 +1,7 @@
+# Install torch and torchvision first using the command for your CPU/GPU.
+# Then install these shared project dependencies with: python -m pip install -r requirements.txt
+numpy
+pytorch-lightning
+einops
+fiftyone>=1.22.1
+Pillow
